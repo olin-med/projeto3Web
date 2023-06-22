@@ -1,0 +1,103 @@
+	body {
+	margin: 0;
+	padding: 0;
+	}
+
+	.container label {
+	display: block;
+	margin-bottom: 10px;
+	}
+
+	.container input[type="text"],
+	.container textarea {
+	width: 100%;
+	margin-bottom: 10px;
+	}
+
+	.container input[type="submit"] {
+	background-color: #4caf50;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	cursor: pointer;
+	}
+
+	#forms {
+	width: 25%;
+	height: auto;
+	}
+
+	.form-field {
+	border-width: 0px;
+	}
+
+	label {
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 24px;
+	color: #000000;
+	}
+
+	input {
+	background: #ffffff;
+	border-radius: 24px;
+	}
+
+	.circular-shape {
+	border-top-left-radius: 50% 50%;
+	border-top-right-radius: 50% 50%;
+	border-bottom-right-radius: 50% 50%;
+	border-bottom-left-radius: 50% 50%;
+	}
+
+	#user-image {
+	position: relative;
+	width: 65%;
+	top: 70px;
+	left: 50px
+	}
+
+	.bold-text {
+	font-weight: bold;
+	font-size: 18px;
+	}
+
+	#descricao {
+	height: 60px;
+	}
+	.name {
+	color: #00bfff;;
+	}
+	.btn-1:hover {
+	background-color: #a2a1a1 !important;
+	}
+
+	.btn-1 {
+	transition: .8s all;
+	}
+
+	.btn-2:hover {
+	background-color: #02a3cb !important;
+	transform: scale(1.1);
+
+	}
+	.btn-2 {
+		transition: .8s all;
+	}
+
+	.profile:hover {
+	transform: scale(1.1);
+	}
+
+	.profile {
+	transition: .6s all;
+	}
+
+	.logo:hover {
+		transform: scale(1.05);
+	}
+
+	.logo {
+	transition: .6s all;
+	}

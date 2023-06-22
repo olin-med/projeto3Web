@@ -1,0 +1,28 @@
+	.name {
+		color: #00bfff;;
+	}
+	.btn-1:hover {
+		background-color: #a2a1a1 !important;
+		transform: scale(1.05);
+	}
+
+	.btn-1 {
+		transition: .8s all;
+	}
+
+	.profile:hover {
+		transform: scale(1.1);
+	}
+
+	.profile {
+		transition: .6s all;
+	}
+
+	.logo:hover {
+		transform: scale(1.05);
+	}
+
+	.logo {
+		transition: .6s all;
+	}
+  

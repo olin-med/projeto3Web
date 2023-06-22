@@ -1,0 +1,28 @@
+	.name {
+		color: #00bfff;
+	}
+
+	.name2 {
+		color: #00bfff;
+		text-decoration: underline;
+	}
+	
+	.logo:hover {
+		transform: scale(1.05);
+	}
+	
+	.logo {
+		transition: .6s all;
+	}
+	.img-1 {
+		transform: scale(0.3);
+	}
+
+	.carousel-control-prev-icon {
+		background-color:rgb(140, 139, 139);
+	   }
+	   
+	.carousel-control-next-icon {
+		background-color:rgb(140, 139, 139);
+	}
+    

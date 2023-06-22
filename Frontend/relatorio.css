@@ -1,0 +1,13 @@
+	@media only screen and (max-width: 720px) {
+		#relatorio {
+		width: 500px;
+		}
+	}
+
+	.logo:hover {
+		transform: scale(1.05);
+	}
+
+	.logo {
+		transition: .6s all;
+	}
